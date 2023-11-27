@@ -21,6 +21,9 @@ NumberPreparation.ipynb : Letölti és előkészíti a tanuláshoz a szám adatb
 ## Adatforrások:
 Roboflow segítségével összeállított tanító adatbázisok. 
 
-Drágakő gyűjtemény: https://universe.roboflow.com/msc-onlab-1/gem-9oe6g
+Drágakő gyűjtemény objektum detektálás: https://universe.roboflow.com/msc-onlab-1/gem-9oe6g
 
-Szám gyűjtemény: https://universe.roboflow.com/legoproject/digital-numbers-vqqx2
+Szám gyűjtemény objektum detektálás: https://universe.roboflow.com/legoproject/digital-numbers-vqqx2
+
+Drágakő gyűjtemény klasszifikáció:
+https://universe.roboflow.com/msc-onlab-1/gem-q84tk/dataset/3
